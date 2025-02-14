@@ -1,7 +1,7 @@
 /*
-Template Name: Cannabo
-Template URL: https://html.vecuro.com/cannabo
-Description: Cannabo - Marijuana and CBD Oil HTML5 Template
+Template Name: AksharAvira Pharma
+Template URL: https://html.vecuro.com/AksharAvira Pharma
+Description: Akshar Avira Pharma
 Author: vecuro
 Author URI: https://themeforest.net/user/vecuro_themes
 Version: 1.0.0
@@ -2784,8 +2784,11 @@ textarea.is-invalid {
   color: var(--body-color) !important;
 }
 
-.text-white {
+/* .text-white {
   color: var(--white-color) !important;
+} */
+.text-white {
+  color: black !important;
 }
 
 .text-yellow {
@@ -4571,13 +4574,13 @@ a.text-theme:hover,
   display: inline-block;
   position: relative;
 }
-.main-menu ul li.menu-item-has-children > a:after {
+/* .main-menu ul li.menu-item-has-children > a:after {
   content: "\f078";
   position: relative;
   font-family: var(--icon-font);
   margin-left: 5px;
   font-size: 0.8rem;
-}
+} */
 .main-menu ul li:last-child {
   margin-right: 0;
 }
@@ -7170,13 +7173,15 @@ blockquote.vs-quote .quote-author {
   text-align: left;
 }
 .hero-carousel2 .slick-dots button {
-  background-color: var(--dots-bg, #fff);
+  background-color: var(--dots-bg, #000000);
 }
 .hero-carousel2 .slick-dots .slick-active button {
-  background-color: var(--white-color);
+  background-color: black;
+  /* background-color: var(--white-color); */
 }
 .hero-carousel2 .slick-dots .slick-active button::before {
-  border-color: var(--white-color);
+  border-color:black;
+  /* border-color: var(--white-color); */
 }
 .hero-carousel2 .hero-leaf1,
 .hero-carousel2 .hero-leaf2 {
